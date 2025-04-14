@@ -1,4 +1,4 @@
-# Movie Recommender React App
+# Movie Recommender React App [MovieLand]
 
 ![Movie Recommender](https://raw.githubusercontent.com/ShouryaSengar/react-movie-app/main/MovieAppSS.png)
 
